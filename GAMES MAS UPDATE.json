@@ -1,0 +1,354 @@
+{
+  "DATA": {
+    "Assassin's Creed Unity": {
+      "title_id": "CUSA00605",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/BASE/EP0001-CUSA00605_00-AC5GAMEPS4000001_BASE_00.pkg",
+        "version": "01.05",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/UP0001/CUSA00663_00/arnlFWX6Y6ZlGyCCYWmth94Shtw44kON.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/UPDATE/1.05/EP0001-CUSA00605_00-AC5GAMEPS4000001_UPD_00.pkg",
+        "version": "1.05"
+      }
+    },
+    "Call of Duty: Modern Warfare III": {
+      "title_id": "CUSA23827",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002 -CUSA23827_00-COREGAME00000001.pkg",
+        "version": "01.33",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
+      },
+      "update": {
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_00.pkg",
+        "version": "1.33"
+      }
+    },
+    "Call of Duty: Vanguard": {
+      "title_id": "CUSA24041",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/BASE/UP0002-CUSA24041_00-CODVTHEGAME00001_BASE_00.pkg",
+        "version": "01.26",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202109/2218/JelPN9rNJfDtoQJTwDsa0deG.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/UPDATE/1.26/UP0002-CUSA24041_00-CODVTHEGAME00001_UPD_00.pkg",
+        "version": "1.26"
+      }
+    },
+    "Cyberpunk 2077": {
+      "title_id": "CUSA16596",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/BASE/UP4497-CUSA16596_00-0000000000000004_BASE_00.pkg",
+        "version": "01.61",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/UPDATE/1.61/UP4497-CUSA16596_00-0000000000000004_UPD_00.pkg",
+        "version": "1.61"
+      }
+    },
+    "Deus da Guerra": {
+      "title_id": "CUSA07408",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/BASE/UP9000-CUSA07408_00-00000000GODOFWAR_BASE_00.pkg",
+        "version": "01.35",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/UPDATE/1.35/UP9000-CUSA07408_00-00000000GODOFWAR_UPD_00.pkg",
+        "version": "1.35"
+      }
+    },
+    "Deus da Guerra Ragnarök": {
+      "title_id": "CUSA34384",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/BASE/UP9000-CUSA34384_00-GOWRAGNAROK00000_BASE_00.pkg",
+        "version": "06.05",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/UPDATE/6.05/UP9000-CUSA34384_00-GOWRAGNAROK00000_UPD_00.pkg",
+        "version": "6.05"
+      }
+    },
+    "Dias Passados": {
+      "title_id": "CUSA09175",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/BASE/EP9000-CUSA09175_00-DAYSGONECOMPLETE_BASE_00.pkg",
+        "version": "01.84",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/UPDATE/1.84/EP9000-CUSA09175_00-DAYSGONECOMPLETE_UPD_00.pkg",
+        "version": "1.84"
+      }
+    },
+    "EA Sports FC 26": {
+      "title_id": "CUSA52342",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/BASE/UP0006-CUSA52342_00-EASPORTSFC2026BG_BASE_00.pkg",
+        "version": "01.13",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/2e757ffb0a6bb4b91af84db64e0183d725e56e5354f45eba.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/UPDATE/1.13/UP0006-CUSA52342_00-EASPORTSFC2026BG_UPD_00.pkg",
+        "version": "1.13"
+      }
+    },
+    "Elden Ring": {
+      "title_id": "CUSA28863",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/BASE/UP0700-CUSA28863_00-ELDENRING0000000_BASE_00.pkg",
+        "version": "01.22",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/UPDATE/1.22/UP0700-CUSA28863_00-ELDENRING0000000_UPD_00.pkg",
+        "version": "1.22"
+      }
+    },
+    "Fallout 4": {
+      "title_id": "CUSA03448",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/BASE/UP1003-CUSA03448_00-FALLOUT4FULGLAME_BASE_00.pkg",
+        "version": "01.37",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/UP1003/CUSA02557_00/j4PdxSxO3optsrP1SxnAqdq6qCmYPd9x.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/UPDATE/1.37/UP1003-CUSA03448_00-FALLOUT4FULGLAME_UPD_00.pkg",
+        "version": "1.37"
+      }
+    },
+    "Fantasma de Tsushima": {
+      "title_id": "CUSA11456",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_00.pkg",
+        "version": "01.06",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1c.png"
+      },
+      "update": {
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/UPDATE/2.24/UP9000-CUSA11456_00-GHOSTSHIP0000000_UPD_00.pkg",
+        "version": "2.24"
+      }
+    },
+    "Far Cry 4": {
+      "title_id": "CUSA00462",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/BASE/EP0001-CUSA00462_00-FC4GAMEPS4000001_BASE_00.pkg",
+        "version": "01.08",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/UP0001/CUSA00496_00/zfviJfMx8AXG0BVq9iObe9dUhXzcXfAh.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/UPDATE/1.08/EP0001-CUSA00462_00-FC4GAMEPS4000001_UPD_00.pkg",
+        "version": "1.08"
+      }
+    },
+    "Guerra Mundial Z": {
+      "title_id": "CUSA14046",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_0.pkg",
+        "version": "01.69",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK.png"
+      },
+      "update": {
+        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_00.pkg",
+        "version": "1.69"
+      }
+    },
+    "Homem-Aranha da Marvel: Miles Morales": {
+      "title_id": "CUSA17722",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/BASE/UP9000-CUSA17722_00-MARVELSSMMORALES_BASE.pkg",
+        "version": "01.14",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/UPDATE/1.14/UP9000-CUSA17722_00-MARVELSSMMORALES_UPD.pkg",
+        "version": "1.14"
+      }
+    },
+    "Horizon Zero Dawn: Edição Completa": {
+      "title_id": "CUSA10237",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/BASE/UP9000-CUSA10237_00-HRZCE00000000000_BASE_00.pkg",
+        "version": "01.54",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1018/9erXiwu0ozgKGPIUVTuy2siN.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/UPDATE/1.54/UP9000-CUSA10237_00-HRZCE00000000000_UPD_00.pkg",
+        "version": "1.54"
+      }
+    },
+    "LEGO Star Wars: A Saga Skywalker": {
+      "title_id": "CUSA13794",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_00.pkg",
+        "version": "01.09",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
+      },
+      "update": {
+        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_00.pkg",
+        "version": "1.09"
+      }
+    },
+    "Marvel's Spider-Man: Edição Jogo do Ano": {
+      "title_id": "CUSA02299",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/BASE/UP9000-CUSA02299_00-MARVELSSPIDERMAN_BASE_00.pkg",
+        "version": "01.19",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/UPDATE/1.19/UP9000-CUSA02299_00-MARVELSSPIDERMAN_UPD_00.pkg",
+        "version": "1.19"
+      }
+    },
+    "Naruto Shippuden: Ultimate Ninja Storm 4 - Rumo a Boruto": {
+      "title_id": "CUSA06381",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/BASE/UP0700-CUSA06381_00-NARUTOUNS4RTB000_BASE_00.pkg",
+        "version": "01.05",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/UP0700/CUSA06381_00/leBwhHZ307kxd3oaMKAKRnGRa2TimjcK.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/UPDATE/1.05/UP0700-CUSA06381_00-NARUTOUNS4RTB000_UPD_00.pkg",
+        "version": "1.05"
+      }
+    },
+    "O Legado de Hogwarts": {
+      "title_id": "CUSA12824",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/BASE/UP1018-CUSA12824_00-HOGWARTSLEGACY01_BASE_00.pkg",
+        "version": "01.05",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/UPDATE/1.05/UP1018-CUSA12824_00-HOGWARTSLEGACY01_UPD_00.pkg",
+        "version": "1.05"
+      }
+    },
+    "Red Dead Redemption": {
+      "title_id": "CUSA36843",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/BASE/EP1004-CUSA36843_00-REDEMPTION000001_BASE_00.pkg",
+        "version": "01.04",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/1023DcJHrrHSgvFpsYxqb6g97uaQTd2kE31rPUeDZTeDsjVq.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/UPDATE/1.04/EP1004-CUSA36843_00-REDEMPTION000001_UPD_00.pkg",
+        "version": "1.04"
+      }
+    },
+    "Red Dead Redemption 2": {
+      "title_id": "CUSA03041",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/BASE/UP1004-CUSA03041_00-REDEMPTION000002_BASE_00.pkg",
+        "version": "01.32",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/UPDATE/1.32/UP1004-CUSA03041_00-REDEMPTION000002_UPD_00.pkg",
+        "version": "1.32"
+      }
+    },
+    "Resident Evil 4: Remake": {
+      "title_id": "CUSA33387",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/BASE/UP0102-CUSA33387_00-RE4RMAINGAME0000_BASE_00.pkg",
+        "version": "01.11",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/UPDATE/1.11/UP0102-CUSA33387_00-RE4RMAINGAME0000_UPD_00.pkg",
+        "version": "1.11"
+      }
+    },
+    "Sekiro™: As sombras morrem duas vezes": {
+      "title_id": "CUSA12047",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_00.pkg",
+        "version": "01.06",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
+      },
+      "update": {
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_00.pkg",
+        "version": "1.06"
+      }
+    },
+    "Star Wars Jedi: Sobrevivente": {
+      "title_id": "CUSA33778",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/BASE/UP0006-CUSA33778_00-APPLEJACKGAME000_BASE_00.pkg",
+        "version": "01.03",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1016/47becbe467e18575f71429abbaec9af707865744b825f34d.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/UPDATE/1.03/UP0006-CUSA33778_00-APPLEJACKGAME000_UPD_00.pkg",
+        "version": "1.03"
+      }
+    },
+    "The Last of Us Part II": {
+      "title_id": "CUSA07820",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/BASE/UP9000-CUSA07820_00-THELASTOFUSPART2_BASE_00.pkg",
+        "version": "01.09",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/UPDATE/1.09/UP9000-CUSA07820_00-THELASTOFUSPART2_UPD_00.pkg",
+        "version": "1.09"
+      }
+    }
+  }
+}
